@@ -30,3 +30,9 @@ https://github.com/scorpionhand/Brewery_Project_One.git<br/>
   5. Is there a correlation to state population and number of breweries? 
   6. Show the consumption rate in the U.S. over the last x years? 
   7. Show the consumption rate over the years. Plot the head() and the tail(). 
+
+
+Matt Resources
+  1. Brewery per state info brought in via API from openbrewerydb.org
+  2. Geoapify plotted brewery/pub and micro brewery on map
+  3. average income CSV received from https://worldpopulationreview.com/state-rankings/average-income-by-state
