@@ -1,52 +1,52 @@
-ID,State,Amount,Type
-1,North Dakota,45.8,gallons
-2,New Hampshire,43.9,gallons
-3,Montana,41,gallons
-4,South Dakota,38.9,gallons
-5,Wisconsin,36.2,gallons
-6,Nevada,35.8,gallons
-7,Vermont,35.3,gallons
-8,Nebraska,35.2,gallons
-9,Texas,34.4,gallons
-10,Maine,34,gallons
-11,Louisiana,33.9,gallons
-12,Mississippi,33.9,gallons
-13,Iowa,33.6,gallons
-14,Delaware,33.6,gallons
-15,Wyoming,33,gallons
-16,South Carolina,32.7,gallons
-17,New Mexico,32.4,gallons
-18,Missouri,31,gallons
-19,Hawaii,30.4,gallons
-20,Oregon,30.3,gallons
-21,West Virginia,30.3,gallons
-22,Alabama,30.2,gallons
-23,Ohio,30.1,gallons
-24,Colorado,30,gallons
-25,Arizona,29.5,gallons
-26,Illinois,29.1,gallons
-27,Alaska,28.7,gallons
-28,Pennsylvania,28.6,gallons
-29,Minnesota,28.5,gallons
-30,Oklahoma,28.3,gallons
-31,Kansas,28.3,gallons
-32,Washington DC,28.3,gallons
-33,Idaho,27.8,gallons
-34,Florida,27.4,gallons
-35,North Carolina,27.1,gallons
-36,Michigan,26.8,gallons
-37,Arkansas,26.7,gallons
-38,Virginia,26.7,gallons
-39,Rhode Island,26.3,gallons
-40,Massachusetts,26.2,gallons
-41,Tennessee,26.2,gallons
-42,Indiana,25.9,gallons
-43,Georgia,25.7,gallons
-44,California,25.5,gallons
-45,Washington,24.8,gallons
-46,Kentucky,24.4,gallons
-47,Maryland,24.2,gallons
-48,New York,22.4,gallons
-49,New Jersey,22.4,gallons
-50,Connecticut,22.1,gallons
-51,Utah,20.2,gallons
+state,Amount,Type
+North Dakota,45.8,gallons
+New Hampshire,43.9,gallons
+Montana,41,gallons
+South Dakota,38.9,gallons
+Wisconsin,36.2,gallons
+Nevada,35.8,gallons
+Vermont,35.3,gallons
+Nebraska,35.2,gallons
+Texas,34.4,gallons
+Maine,34,gallons
+Louisiana,33.9,gallons
+Mississippi,33.9,gallons
+Iowa,33.6,gallons
+Delaware,33.6,gallons
+Wyoming,33,gallons
+South Carolina,32.7,gallons
+New Mexico,32.4,gallons
+Missouri,31,gallons
+Hawaii,30.4,gallons
+Oregon,30.3,gallons
+West Virginia,30.3,gallons
+Alabama,30.2,gallons
+Ohio,30.1,gallons
+Colorado,30,gallons
+Arizona,29.5,gallons
+Illinois,29.1,gallons
+Alaska,28.7,gallons
+Pennsylvania,28.6,gallons
+Minnesota,28.5,gallons
+Oklahoma,28.3,gallons
+Kansas,28.3,gallons
+Washington DC,28.3,gallons
+Idaho,27.8,gallons
+Florida,27.4,gallons
+North Carolina,27.1,gallons
+Michigan,26.8,gallons
+Arkansas,26.7,gallons
+Virginia,26.7,gallons
+Rhode Island,26.3,gallons
+Massachusetts,26.2,gallons
+Tennessee,26.2,gallons
+Indiana,25.9,gallons
+Georgia,25.7,gallons
+California,25.5,gallons
+Washington,24.8,gallons
+Kentucky,24.4,gallons
+Maryland,24.2,gallons
+New York,22.4,gallons
+New Jersey,22.4,gallons
+Connecticut,22.1,gallons
+Utah,20.2,gallons
