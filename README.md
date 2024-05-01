@@ -7,9 +7,9 @@ Question 4: What is the population of each state? What is the ratio of Populatio
 Analysis: The Top 10 most populated states are all located by a major body of water.
             Of those 10 only 4 have a population to brewery ratio over 10,000:1.
 
-          <!-- The State with highest population to brewery ratio is Wyoming with a ratio around 32,835 citizens for every  1 brewery.  -->
+          The State with highest population to brewery ratio is Wyoming with a ratio around 32,835 citizens for every  1 brewery. 
 
-          <!-- The State with the Lowest population to brewery ratio is Alabama with a ratio around 1,279 citizens for every 1 brewery. -->
+          The State with the Lowest population to brewery ratio is Alabama with a ratio around 1,279 citizens for every 1 brewery.
 
 
 Challenges:
