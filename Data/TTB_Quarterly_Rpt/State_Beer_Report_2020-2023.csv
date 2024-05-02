@@ -1,5 +1,4 @@
-﻿Year,STATE,"Sum of Tax-Determined,
-Premises Use"
+﻿Year,STATE,Tax-Determined Premises Use
 2020,Alabama,42170.81
 2020,Alaska,36899.98
 2020,Arizona,39691.27
@@ -184,8 +183,7 @@ Premises Use"
 2023,New Jersey,72774.57
 2023,New Mexico,16711.23
 2023,New York,105980.86
-2023,"New
-Hampshire",23327.92
+2023,New Hampshire,23327.92
 2023,North Carolina,147780.27
 2023,North Dakota,9555.71
 2023,Ohio,102279.89
