@@ -52,4 +52,16 @@ Challenges Daryn experienced during project:
 
 3. Decision paralysis on to present the data that I had
 
+## Austen Resource and Analysis:
+2. Question: Is there a correlation in consumption rate to the number of breweries each state?
+Data from https://beerinfo.com/beer-consumption-by-state-per-capita/
 
+Analysis: 
+
+o	Right off the bat, we can see that there is going to be an outlier in California. The # of breweries is drastically higher than almost all of the other states equaling 4, even 5 times the amount. While alcohol consumed by state is a little closer together. Although, a number of our highest producing states of breweries have actually some of the lowest #s of alcohol consumed when comparing inside our DF. 
+
+o	Generating a basic scatter plot, we can see that our plot is pretty bundled together indicating little to no correlation. Plotting our line and printing our R Value, you can see that the scatter plot has an actual negative correlation between our two values, sitting at -.24. This means the states with most breweries are states that are drinking the least. This at the very least indicates that the # of Breweries Per State is driven by a separate factor.
+
+ Challenges Austen experienced during project:
+ 1. Everything github, even though I feel much more comfortable with it after this project. Moving between branches, while pushing and pulling has been a struggle. The main problem being conflicting files. I talked to Ben and we were able to run through the solution. 
+ 2. Real basic problem but when I was trying to pull a simple CSV file in I was unable to work out what I was doing wrong. After a while, I happened to check the CSV and I had renamed it with a typo so I was pulling the wrong name the entire time. 
