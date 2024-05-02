@@ -14,7 +14,8 @@
 </ul>
 
 
-Matt Resources and analysis:
+## Matt Resources and analysis:
+<blockquote>
   1. Brewery per state info brought in via API from openbrewerydb.org
   2. Geoapify plotted brewery/pub and micro brewery on map
   3. average income CSV received from https://worldpopulationreview.com/state-rankings/average-income-by-state
@@ -28,4 +29,4 @@ Matt Resources and analysis:
   1. Github, merging caused some confusion and I was pushing stuff up but after the merge I thought I lost some of my data and started over at one point.  Ben had to assist with merging, and pulling within github and my computer.
   2. API Call, My api call weren't working and John on our team found a solution and we used his coding solution and that ultimately worked.
   3. GeoApify plotting, Used same code segment from last homework assignment and it gave an error indicating that longitude and latitude were unreadable.  Benjamin came in and assisted with casting longitude and latitude into integers.  John found solution by using pd.to_numeric function.
-  
+</blockquote>
