@@ -30,3 +30,26 @@
   2. API Call, My api call weren't working and John on our team found a solution and we used his coding solution and that ultimately worked.
   3. GeoApify plotting, Used same code segment from last homework assignment and it gave an error indicating that longitude and latitude were unreadable.  Benjamin came in and assisted with casting longitude and latitude into integers.  John found solution by using pd.to_numeric function.
 </blockquote>
+
+## Daryn Resorces and analysis:
+
+1. State Population Excel from https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html converted to a csv Census.csv
+2. Brewery per state info brought in via API from openbrewerydb.org
+
+Analysis: 
+
+With all the states and territories there is a moderate correlation between the state population to the number of breweries with the r value equaling about .68
+
+California is an outlier with 904 Breweries to the population when we remove it the r value becomes about .50
+
+If we did just the 20 smallest states there would be no correlation even with the 114 breweries in Maine. Even Nevada with its population the brewery count is 51. 
+
+Challenges Daryn experienced during project:
+
+1. Issuses with working with Github with merging and pulling from main.
+
+2. Getting the data from openbrewerydb.org via API ended up using John's solution
+
+3. Decision paralysis on to present the data that I had
+
+
