@@ -1,5 +1,21 @@
 # Brewery_Project_One
 
+## File Structure
+<ul>
+  <li>Analysis</li>
+    <blockquote>
+      This is where the analysis files are stored 
+    </blockquote>
+  <li>Data</li>
+    <blockquote>
+      Contains data files used for analysis
+    </blockquote>
+  <li>Outputs</li>
+    <blockquote>
+      Contains the output file results from analysis
+    </blockquote>
+</ul>
+
 ## Data Sources:
 [Brewery API](https://www.openbrewerydb.org/documentation/)<br/>
 [Consumption Rate List](https://beerinfo.com/beer-consumption-by-state-per-capita/)<br/>
