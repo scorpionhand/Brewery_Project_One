@@ -108,8 +108,8 @@ o	Generating a basic scatter plot, we can see that our plot is pretty bundled to
 
 
  ## John Teasley Analysis
- <blockquote>
-<b>Which state paid the most taxes for premise use?</b>
+  <blockquote>
+<b>Which state paid the most taxes for premise use?</b><br>
 The state with the highest on-premise use taxes per capita was Wyoming.<br>
 The state with the lowest on-premise use taxes per capita was Mississippi.<br>
 Note that the taxes paid on premise does not directly correlate with consumption rate per capita as there are other factors that effect the amount of taxes owed.<br>
@@ -124,13 +124,13 @@ In 2023 the state with the highest beer tax is Tennessee at $1.29 per gallon.<br
 The state with the lowest beer tax is Wyoming at a rate of $0.02 per gallon.<br>
 Ref: https://taxfoundation.org/
 
-<b>Is Beer Consumption Rising or Falling?</b>
+<b>Is Beer Consumption Rising or Falling?</b><br>
 The consumption rate is rising steadily between the years of 2020 to 2023.<br>
 The highest rate so far is in 2022, but the 2023 data is missing the 4th quarter information.<br> 
 While 2023 has the lowest consumption rate, I would estimate that after all information has been reported for 2023, the consumption rate will be greater than 2022.<br>
 The possible reason for increased consumption may be due to lifestyle changes that have occurred in recent years. It’s possible that we are returning to a consumption rate that matches previous years not included in this report.<br>
 
-<b>Challenges:</b>
+<b>Challenges:</b><br>
 o   Verifying the source data for accuracy.<br>
 o   Learning the tax code for alcohol. Each state has its own set of rules for alcohol taxation.<br>
 o   Determining the units of data provided such as dollars, gallons, barrels?<br>
