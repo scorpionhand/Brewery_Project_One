@@ -66,3 +66,72 @@ Creating Graphs:
     In both graphs I struggled to call the correct column that was needed from each dataframe.
     I was able to fix this by reviewing my code making sure my data frames were correctly made and then I would copy the column header that was printed within the dataframe.
 </blockquote>
+
+## Daryn Resorces and analysis:
+<blockquote>
+1. State Population Excel from https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html converted to a csv Census.csv
+2. Brewery per state info brought in via API from openbrewerydb.org
+
+Analysis: 
+
+With all the states and territories there is a moderate correlation between the state population to the number of breweries with the r value equaling about .68
+
+California is an outlier with 904 Breweries to the population when we remove it the r value becomes about .50
+
+If we did just the 20 smallest states there would be no correlation even with the 114 breweries in Maine. Even Nevada with its population the brewery count is 51. 
+
+Challenges Daryn experienced during project:
+
+1. Issuses with working with Github with merging and pulling from main.
+
+2. Getting the data from openbrewerydb.org via API ended up using John's solution
+
+3. Decision paralysis on to present the data that I had
+</blockquote>
+
+
+## Austen Resource and Analysis:
+<blockquote>
+2. Question: Is there a correlation in consumption rate to the number of breweries each state?
+Data from https://beerinfo.com/beer-consumption-by-state-per-capita/
+
+Analysis: 
+
+o	Right off the bat, we can see that there is going to be an outlier in California. The # of breweries is drastically higher than almost all of the other states equaling 4, even 5 times the amount. While alcohol consumed by state is a little closer together. Although, a number of our highest producing states of breweries have actually some of the lowest #s of alcohol consumed when comparing inside our DF. 
+
+o	Generating a basic scatter plot, we can see that our plot is pretty bundled together indicating little to no correlation. Plotting our line and printing our R Value, you can see that the scatter plot has an actual negative correlation between our two values, sitting at -.24. This means the states with most breweries are states that are drinking the least. This at the very least indicates that the # of Breweries Per State is driven by a separate factor.
+
+ Challenges Austen experienced during project:
+ 1. Everything github, even though I feel much more comfortable with it after this project. Moving between branches, while pushing and pulling has been a struggle. The main problem being conflicting files. I talked to Ben and we were able to run through the solution. 
+ 2. Real basic problem but when I was trying to pull a simple CSV file in I was unable to work out what I was doing wrong. After a while, I happened to check the CSV and I had renamed it with a typo so I was pulling the wrong name the entire time. 
+ </blockquote>
+
+
+ ## John Teasley Analysis
+ <blockquote>
+<b>Which state paid the most taxes for premise use?</b>
+The state with the highest on-premise use taxes per capita was Wyoming.<br>
+The state with the lowest on-premise use taxes per capita was Mississippi.<br>
+Note that the taxes paid on premise does not directly correlate with consumption rate per capita as there are other factors that effect the amount of taxes owed.<br>
+Beer taxes are known as an excise tax. This is sometimes referred to as a ‘sin’ tax.
+Each state has its own set of rules for excise taxes.<br>
+
+Most states have only an excise tax, but some states also include an Ad Valorem (A Latin phrase meaning “according to the value.”). <br>
+Ad Valorem applies to other factors
+such as alcohol %.<br>
+
+In 2023 the state with the highest beer tax is Tennessee at $1.29 per gallon.<br>
+The state with the lowest beer tax is Wyoming at a rate of $0.02 per gallon.<br>
+Ref: https://taxfoundation.org/
+
+<b>Is Beer Consumption Rising or Falling?</b>
+The consumption rate is rising steadily between the years of 2020 to 2023.<br>
+The highest rate so far is in 2022, but the 2023 data is missing the 4th quarter information.<br> 
+While 2023 has the lowest consumption rate, I would estimate that after all information has been reported for 2023, the consumption rate will be greater than 2022.<br>
+The possible reason for increased consumption may be due to lifestyle changes that have occurred in recent years. It’s possible that we are returning to a consumption rate that matches previous years not included in this report.<br>
+
+<b>Challenges:</b>
+o   Verifying the source data for accuracy.<br>
+o   Learning the tax code for alcohol. Each state has its own set of rules for alcohol taxation.<br>
+o   Determining the units of data provided such as dollars, gallons, barrels?<br>
+</blockquote>
